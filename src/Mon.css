@@ -1,0 +1,19 @@
+.Mon {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    background-color: lightblue;
+    padding: 0em;
+    align-items: center;
+    border-radius: 2em;
+}
+
+
+.speciality {
+    font-weight: bold;
+    color: green;
+}
+
+img {
+    width: 30%;
+}
